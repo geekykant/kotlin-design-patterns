@@ -1,7 +1,6 @@
 package com.paavam.learningcurve
 
 import org.junit.Test
-import kotlin.math.PI
 
 interface Image {
     fun display()
